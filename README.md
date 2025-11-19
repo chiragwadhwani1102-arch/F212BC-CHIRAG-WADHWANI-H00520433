@@ -1,4 +1,4 @@
-#Biologically-Inspired Computation (F20BC/F21BC) Coursework
+ * Biologically-Inspired Computation (F20BC/F21BC) Coursework
 
 🎯 Project Goal: Teaching a Digital Brain to Learn
 
